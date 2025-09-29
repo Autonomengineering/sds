@@ -21,7 +21,7 @@
       "utils": ["src/ui/utils"]
     },
     "documentUrlSubstitutions": {
-      "<FIGMA_ICONS_BASE>": "https://figma.com/design/JHVQ0lRTLpipLgAqxZgJne/Simple-Design-System--Community-",
+      "<FIGMA_ICONS_BASE>": "https://figma.com/design/JHVQ0lRTLpipLgAqxZgJne",
       "<FIGMA_ACCORDION_ACCORDION_ITEM>": "https://figma.com/design/J0KLPKXiONDRssXD1AX9Oi?node-id=7753-4634",
       "<FIGMA_ACCORDION_ACCORDION>": "https://figma.com/design/J0KLPKXiONDRssXD1AX9Oi?node-id=7753-4779",
       "<FIGMA_AVATARS_AVATAR_BLOCK>": "https://figma.com/design/J0KLPKXiONDRssXD1AX9Oi?node-id=2010-15581",
@@ -29,7 +29,7 @@
       "<FIGMA_AVATARS_AVATAR>": "https://figma.com/design/J0KLPKXiONDRssXD1AX9Oi?node-id=9762:1103",
       "<FIGMA_BUTTONS_BUTTON_DANGER>": "https://figma.com/design/J0KLPKXiONDRssXD1AX9Oi?node-id=185-852",
       "<FIGMA_BUTTONS_BUTTON_GROUP>": "https://figma.com/design/J0KLPKXiONDRssXD1AX9Oi?node-id=2072-9432",
-      "<FIGMA_BUTTONS_BUTTON>": "https://figma.com/design/JHVQ0lRTLpipLgAqxZgJne/Simple-Design-System--Community-?node-id=128-10284&m=dev&focus-id=4185-3778",
+      "<FIGMA_BUTTONS_BUTTON>": "https://figma.com/design/JHVQ0lRTLpipLgAqxZgJne?node-id=128-10284",
       "<FIGMA_BUTTONS_ICON_BUTTON>": "https://figma.com/design/J0KLPKXiONDRssXD1AX9Oi?node-id=11-11508",
       "<FIGMA_CARDS_CARD>": "https://figma.com/design/J0KLPKXiONDRssXD1AX9Oi?node-id=2142-11380",
       "<FIGMA_CARDS_PRICING_CARD>": "https://figma.com/design/J0KLPKXiONDRssXD1AX9Oi?node-id=1444-11846",
